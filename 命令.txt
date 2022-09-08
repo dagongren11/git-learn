@@ -1,3 +1,17 @@
-222
-xiufu bug
-shancgheng 100%
+git init
+git status
+git add .
+git commit -m ' '
+git log
+git reset --hard 版本号
+git reflog
+git reset --hard 版本号
+git checkout -- 文件名   工作区 修改--未修改
+git reset HEAD 文件名  暂存区--工作区修改
+git checkout -- 文件名   工作区 修改--未修改
+
+git branch
+git branch 分支名
+git checkout 分支名 切换分支
+git merge 分支名   合并分支
+git branch -d 分支名  删除分支
